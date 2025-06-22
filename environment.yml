@@ -1,0 +1,12 @@
+name: gemini_xai_env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy=1.26
+  - scikit-learn
+  - seaborn
+  - python=3.11
+  - pandas
+  - requests
+prefix: C:\Users\eronp\anaconda3\envs\gemini_xai_env
