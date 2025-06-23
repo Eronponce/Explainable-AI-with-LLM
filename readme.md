@@ -9,7 +9,6 @@ gemini_xai_project/
 │
 ├── main.py                     # Script principal que executa todo o fluxo
 └── src/
-    ├── __init__.py             # Torna a pasta src um pacote
     ├── data.py                 # Carregamento e pré-processamento do dataset
     ├── model.py                # Treinamento de modelo Random Forest
     ├── explain.py              # Geração de explicações usando a API Gemini
